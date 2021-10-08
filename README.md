@@ -166,6 +166,10 @@
 
 ![pokemaoRelaxado](emotes/pokemaoRelaxado.png)
 
+### pokemaoSorriso
+
+![pokemaoSorriso](emotes/pokemaoSorriso.png)
+
 ### profAssustado
 
 ![profAssustado](emotes/profAssustado.png)
