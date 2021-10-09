@@ -154,6 +154,10 @@
 
 ![PachitthinRindo](emotes/PachitthinRindo.png)
 
+### Patocornio Pistola
+
+![Emote_Patocornio pistola](https://user-images.githubusercontent.com/44537285/136676020-f84c6982-f1bb-4b7d-97b6-e2bd3cbc67d6.png)
+
 ### PogDocinho
 
 ![PogDocinho](emotes/PogDocinho.jpg)
