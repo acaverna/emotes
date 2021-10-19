@@ -162,6 +162,10 @@
 
 ![PogDocinho](emotes/PogDocinho.jpg)
 
+### pokemaoEmote
+
+![pokemaoEmote](emotes/pokemaoEmote.png)
+
 ### pokemaoFilosoficoTenso
 
 ![pokemaoFilosoficoTenso](emotes/pokemaoFilosoficoTenso.png)
