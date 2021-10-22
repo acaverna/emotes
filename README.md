@@ -178,6 +178,10 @@
 
 ![pokemaoSorriso](emotes/pokemaoSorriso.png)
 
+### pokemaoSarpofrago
+
+![pokemaoSarpofrago](emotes/pokeSarpofrago.png)
+
 ### profAssustado
 
 ![profAssustado](emotes/profAssustado.png)
