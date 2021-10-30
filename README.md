@@ -110,9 +110,30 @@
 
 ![kastroSoninho](emotes/kastroSoninho.png)
 
+
+### leleAprova
+
+![leleAprova](emotes/leleAprova.png)
+
+### leleAvah
+
+![leleAvah](emotes/leleAvah.png)
+
+## leleReflexiva
+
+![leleReflexiva](emotes/leleReflexiva.png)
+
+### leleSad
+
+![leleSad](emotes/leleSad.png)
+
+### leleSad2
+![leleSad2](emotes/leleSad2.png)
+
 ### levxycaSusto
 
 ![levxycaSusto](emotes/levxycaSusto.png)
+
 
 ### narioUkulele
 
