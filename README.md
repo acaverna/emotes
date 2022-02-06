@@ -2,283 +2,231 @@
 
 ## Coletânia de emotes da Caverna do Patocórnio
 
-### amain
+### amain.png
+[amain.png](emotes/amain.png)
 
-![amain](emotes/amain.png)
+### angu.jpg
+[angu.jpg](emotes/angu.jpg)
 
-### angu
+### carolBacana.png
+[carolBacana.png](emotes/carolBacana.png)
 
-![angu](emotes/angu.jpg)
+### carolDecepicionada.png
+[carolDecepicionada.png](emotes/carolDecepicionada.png)
 
-### carolBacana
+### carolFofis.png
+[carolFofis.png](emotes/carolFofis.png)
 
-![carolBacana](emotes/carolBacana.png)
+### carolLUL.png
+[carolLUL.png](emotes/carolLUL.png)
 
-### carolDecepicionada
+### carolRisos.png
+[carolRisos.png](emotes/carolRisos.png)
 
-![carolDecepicionada](emotes/carolDecepicionada.png)
+### carolSommelier.png
+[carolSommelier.png](emotes/carolSommelier.png)
 
-### carolFofis
+### carolSurprise.png
+[carolSurprise.png](emotes/carolSurprise.png)
 
-![carolFofis](emotes/carolFofis.png)
+### chicoMetal.png
+[chicoMetal.png](emotes/chicoMetal.png)
 
-### carolLUL
+### DO.png
+[DO.png](emotes/DO.png)
 
-![carolLUL](emotes/carolLUL.png)
+### drone.png
+[drone.png](emotes/drone.png)
 
-### carolRisos
+### lissaDecepcionado.png
+[lissaDecepcionado.png](emotes/lissaDecepcionado.png)
 
-![carolRisos](emotes/carolRisos.png)
+### lissaPensativo.png
+[lissaPensativo.png](emotes/lissaPensativo.png)
 
-### carolSommelier
+### lissaVscodeNo.png
+[lissaVscodeNo.png](emotes/lissaVscodeNo.png)
 
-![carolSommelier](emotes/carolSommelier.png)
+### esobreisso.png
+[esobreisso.png](emotes/esobreisso.png)
 
-### carolSurprise
+### estrelaComDedos.png
+[estrelaComDedos.png](emotes/estrelaComDedos.png)
 
-![carolSurprise](emotes/carolSurprise.png)
+### FA.png
+[FA.png](emotes/FA.png)
 
-### chicoMetal
+### freakyAssaltado.png
+[freakyAssaltado.png](emotes/freakyAssaltado.png)
 
-![chicoMetal](emotes/chicoMetal.png)
+### freakyDuvidoso.png
+[freakyDuvidoso.png](emotes/freakyDuvidoso.png)
 
-### DO
+### freakyFeliz.png
+[freakyFeliz.png](emotes/freakyFeliz.png)
 
-![DO](emotes/DO.png)
+### FunkeiroBrunoLopes.png
+[FunkeiroBrunoLopes.png](emotes/FunkeiroBrunoLopes.png)
 
-### drone
+### heitorJoinha.png
+[heitorJoinha.png](emotes/heitorJoinha.png)
 
-![drone](emotes/drone.png)
+### jpChavoso.png
+[jpChavoso.png](emotes/jpChavoso.png)
 
-### edersonDecepcionado
+### Kap.png
+[Kap.png](emotes/Kap.png)
 
-![edersonDecepcionado](emotes/edersonDecepcionado.png)
+### kastremo.png
+[kastremo.png](emotes/kastremo.png)
 
-### edersonPensativo
+### kastroOqueToFazendo.png
+[kastroOqueToFazendo.png](emotes/kastroOqueToFazendo.png)
 
-![edersonPensativo](emotes/edersonPensativo.png)
+### kastroSoninho2.png
+[kastroSoninho2.png](emotes/kastroSoninho2.png)
 
-### edersonVscodeNo
+### kastroSoninhoComUrsinho.png
+[kastroSoninhoComUrsinho.png](emotes/kastroSoninhoComUrsinho.png)
 
-![edersonVscodeNo](emotes/edersonVscodeNo.png)
+### kastroSoninho.png
+[kastroSoninho.png](emotes/kastroSoninho.png)
 
-### esobreisso
+### leleAprova.png
+[leleAprova.png](emotes/leleAprova.png)
 
-![esobreisso](emotes/esobreisso.png)
+### leleAvah.png
+[leleAvah.png](emotes/leleAvah.png)
 
-### FA
+### leleReflexiva.png
+[leleReflexiva.png](emotes/leleReflexiva.png)
 
-![FA](emotes/FA.png)
+### leleSad2.png
+[leleSad2.png](emotes/leleSad2.png)
 
-### freakyAssaltado
+### leleSad.png
+[leleSad.png](emotes/leleSad.png)
 
-![freakyAssaltado](emotes/freakyAssaltado.png)
+### levxycaSusto.png
+[levxycaSusto.png](emotes/levxycaSusto.png)
 
-### freakyDuvidoso
+### morgioHihi.png
+[morgioHihi.png](emotes/morgioHihi.png)
 
-![freakyDuvidoso](emotes/freakyDuvidoso.png)
+### narioUkulele.png
+[narioUkulele.png](emotes/narioUkulele.png)
 
-### freakyFeliz
+### octoxycat.png
+[octoxycat.png](emotes/octoxycat.png)
 
-![freakyFeliz](emotes/freakyFeliz.png)
+### pachi2Pog.png
+[pachi2Pog.png](emotes/pachi2Pog.png)
 
-### FunkeiroBrunoLopes
+### pachic2Pog.png
+[pachic2Pog.png](emotes/pachic2Pog.png)
 
-![FunkeiroBrunoLopes](emotes/FunkeiroBrunoLopes.png)
+### pachiComendo.png
+[pachiComendo.png](emotes/pachiComendo.png)
 
-### heitorJoinha
+### pachiDesapontada.png
+[pachiDesapontada.png](emotes/pachiDesapontada.png)
 
-![heitorJoinha](emotes/heitorJoinha.png)
+### pachiDesesperada.png
+[pachiDesesperada.png](emotes/pachiDesesperada.png)
 
-### jpChavoso
+### pachiLana.png
+[pachiLana.png](emotes/pachiLana.png)
 
-![jpChavoso](emotes/jpChavoso.png)
+### pachiLUL.png
+[pachiLUL.png](emotes/pachiLUL.png)
 
-### Kap
+### pachiRonaldinho.png
+[pachiRonaldinho.png](emotes/pachiRonaldinho.png)
 
-![Kap](emotes/Kap.png)
+### pachiTravada.png
+[pachiTravada.png](emotes/pachiTravada.png)
 
-### kastremo
+### PachitthinRindo.png
+[PachitthinRindo.png](emotes/PachitthinRindo.png)
 
-![kastremo](emotes/kastremo.png)
+### patriciaPapagaioPirata.png
+[patriciaPapagaioPirata.png](emotes/patriciaPapagaioPirata.png)
 
-### kastroSoninhoComUrsinho
+### PogDocinho.jpg
+[PogDocinho.jpg](emotes/PogDocinho.jpg)
 
-![kastroSoninhoComUrsinho](emotes/kastroSoninhoComUrsinho.png)
+### pokemaoEmote.png
+[pokemaoEmote.png](emotes/pokemaoEmote.png)
 
-### kastroSoninho
+### pokemaoFilosoficoTenso.png
+[pokemaoFilosoficoTenso.png](emotes/pokemaoFilosoficoTenso.png)
 
-![kastroSoninho](emotes/kastroSoninho.png)
+### pokemaoRelaxado.png
+[pokemaoRelaxado.png](emotes/pokemaoRelaxado.png)
 
+### pokemaoSorriso.png
+[pokemaoSorriso.png](emotes/pokemaoSorriso.png)
 
-### leleAprova
+### pokeSarpofrago.png
+[pokeSarpofrago.png](emotes/pokeSarpofrago.png)
 
-![leleAprova](emotes/leleAprova.png)
+### profAssustado.png
+[profAssustado.png](emotes/profAssustado.png)
 
-### leleAvah
+### SA.png
+[SA.png](emotes/SA.png)
 
-![leleAvah](emotes/leleAvah.png)
+### tonhoAssalto.png
+[tonhoAssalto.png](emotes/tonhoAssalto.png)
 
-## leleReflexiva
+### tonhoCavalando.png
+[tonhoCavalando.png](emotes/tonhoCavalando.png)
 
-![leleReflexiva](emotes/leleReflexiva.png)
+### tonhoChurrasqueiro.png
+[tonhoChurrasqueiro.png](emotes/tonhoChurrasqueiro.png)
 
-### leleSad
+### tonhoEMO.png
+[tonhoEMO.png](emotes/tonhoEMO.png)
 
-![leleSad](emotes/leleSad.png)
+### tonhoEnvergonhado.png
+[tonhoEnvergonhado.png](emotes/tonhoEnvergonhado.png)
 
-### leleSad2
-![leleSad2](emotes/leleSad2.png)
+### tonhoFunkeiroSensato.png
+[tonhoFunkeiroSensato.png](emotes/tonhoFunkeiroSensato.png)
 
-### levxycaSusto
+### tonhoGangStyle.png
+[tonhoGangStyle.png](emotes/tonhoGangStyle.png)
 
-![levxycaSusto](emotes/levxycaSusto.png)
+### tonhoHeyGuys.png
+[tonhoHeyGuys.png](emotes/tonhoHeyGuys.png)
 
+### tonhoIluminatti.png
+[tonhoIluminatti.png](emotes/tonhoIluminatti.png)
 
-### narioUkulele
+### tonhoKappaHalf.png
+[tonhoKappaHalf.png](emotes/tonhoKappaHalf.png)
 
-![narioUkulele](emotes/narioUkulele.png)
+### tonhoKappa.png
+[tonhoKappa.png](emotes/tonhoKappa.png)
 
-### pachi2Pog
+### tonhoLUL.png
+[tonhoLUL.png](emotes/tonhoLUL.png)
 
-![pachi2Pog](emotes/pachi2Pog.png)
+### tonhoMercury.png
+[tonhoMercury.png](emotes/tonhoMercury.png)
 
-### pachic2Pog
+### tonhoMetaleiro.png
+[tonhoMetaleiro.png](emotes/tonhoMetaleiro.png)
 
-![pachic2Pog](emotes/pachic2Pog.png)
+### tonhoPsy.png
+[tonhoPsy.png](emotes/tonhoPsy.png)
 
-### pachiComendo
+### tonhoSalve.png
+[tonhoSalve.png](emotes/tonhoSalve.png)
 
-![pachiComendo](emotes/pachiComendo.png)
+### tonhoSeemsGood.png
+[tonhoSeemsGood.png](emotes/tonhoSeemsGood.png)
 
-### pachiDesapontada
+### xablau.png
+[xablau.png](emotes/xablau.png)
 
-![pachiDesapontada](emotes/pachiDesapontada.png)
-
-### pachiDesesperada
-
-![pachiDesesperada](emotes/pachiDesesperada.png)
-
-### pachiLana
-
-![pachiLana](emotes/pachiLana.png)
-
-### pachiLUL
-
-![pachiLUL](emotes/pachiLUL.png)
-
-### pachiTravada
-
-![pachiTravada](emotes/pachiTravada.png)
-
-### PachitthinRindo
-
-![PachitthinRindo](emotes/PachitthinRindo.png)
-
-### Patocornio Pistola
-
-![Emote_Patocornio pistola](https://user-images.githubusercontent.com/44537285/136676020-f84c6982-f1bb-4b7d-97b6-e2bd3cbc67d6.png)
-
-### PogDocinho
-
-![PogDocinho](emotes/PogDocinho.jpg)
-
-### pokemaoEmote
-
-![pokemaoEmote](emotes/pokemaoEmote.png)
-
-### pokemaoFilosoficoTenso
-
-![pokemaoFilosoficoTenso](emotes/pokemaoFilosoficoTenso.png)
-
-### pokemaoRelaxado
-
-![pokemaoRelaxado](emotes/pokemaoRelaxado.png)
-
-### pokemaoSorriso
-
-![pokemaoSorriso](emotes/pokemaoSorriso.png)
-
-### pokemaoSarpofrago
-
-![pokemaoSarpofrago](emotes/pokeSarpofrago.png)
-
-### profAssustado
-
-![profAssustado](emotes/profAssustado.png)
-
-### SA
-
-![SA](emotes/SA.png)
-
-### tonhoAssalto
-
-![tonhoAssalto](emotes/tonhoAssalto.png)
-
-### tonhoCavalando
-
-![tonhoCavalando](emotes/tonhoCavalando.png)
-
-### tonhoChurrasqueiro
-
-![tonhoChurrasqueiro](emotes/tonhoChurrasqueiro.png)
-
-### tonhoEMO
-
-![tonhoEMO](emotes/tonhoEMO.png)
-
-### tonhoEnvergonhado
-
-![tonhoEnvergonhado](emotes/tonhoEnvergonhado.png)
-
-### tonhoFunkeiroSensato
-
-![tonhoFunkeiroSensato](emotes/tonhoFunkeiroSensato.png)
-
-### tonhoGangStyle
-
-![tonhoGangStyle](emotes/tonhoGangStyle.png)
-
-### tonhoHeyGuys
-
-![tonhoHeyGuys](emotes/tonhoHeyGuys.png)
-
-### tonhoIluminatti
-
-![tonhoIluminatti](emotes/tonhoIluminatti.png)
-
-### tonhoKappaHalf
-
-![tonhoKappaHalf](emotes/tonhoKappaHalf.png)
-
-### tonhoKappa
-
-![tonhoKappa](emotes/tonhoKappa.png)
-
-### tonhoLUL
-
-![tonhoLUL](emotes/tonhoLUL.png)
-
-### tonhoMercury
-
-![tonhoMercury](emotes/tonhoMercury.png)
-
-### tonhoMetaleiro
-
-![tonhoMetaleiro](emotes/tonhoMetaleiro.png)
-
-### tonhoPsy
-
-![tonhoPsy](emotes/tonhoPsy.png)
-
-### tonhoSalve
-
-![tonhoSalve](emotes/tonhoSalve.png)
-
-### tonhoSeemsGood
-
-![tonhoSeemsGood](emotes/tonhoSeemsGood.png)
-
-### xablau
-
-![xablau](emotes/xablau.png)
